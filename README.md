@@ -8,7 +8,7 @@
 </p>
 
 # ACP GROUP - TESTE PRÁTICO. 
-## Candidato : Melquisedeque Bispo de Jesus.
+## Por Melquisedeque Bispo de Jesus.
 
 ## Instruções importantes.
 
