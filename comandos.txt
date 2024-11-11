@@ -1,0 +1,26 @@
+docker system prune --all --force --volumes (limpar todas imagem)
+
+docker-compose down -v (O comando docker-compose down -v derruba todos os 
+                         containers e remove os volumes, incluindo o volume do PostgreSQL.
+                         Isso fará com que o PostgreSQL seja inicializado com o usuário 
+                         e banco de dados definidos nas variáveis de ambiente.)
+
+docker compose up -d (instalar/levanta as dependencias do containers)
+
+docker-compose up --build (Recriar os containers acompnha os status do docker)
+
+docker exec -it application bash (abrir terminal docker / linux) 
+
+docker exec -it dbp bash  (acessar o terminal docker / PostgreSQL)
+
+docker network ls (lista rede docker)
+
+docker network create --driver bridge laravel_app (criar uma rede docker)
+
+docker network inspect laravel_app (exibir a rede docker)
+
+docker network connect laravel_app_laravel_app (conectar um container a uma rede especifica)
+
+php artisan tinker (abre o terminal laravel)
+
+DB::connection()->getPdo(); (busca a instância de conexao laravel)
