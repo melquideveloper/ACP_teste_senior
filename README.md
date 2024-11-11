@@ -20,17 +20,19 @@
 
 ## Instruções para instalação do projeto.
 
-## 2. Dependências Laravel.
+## 1. Clonar o projeto.
+    - 1.1 git clone
+## 2. Instalar Dependências Laravel.
     - 2.1 Renomear .env.example para .env (Raiz do projeto)
     - Comando(s)
     - 2.2 composer install
     - 2.3 php artisan key:generate
     - 2.4 php artisan jwt:secret
-## 3. Dependências Banco de dados (PostgresSQL).   
+## 3. Instalar Dependências Banco de dados (PostgresSQL).   
     - 3.1 Configurar .env com banco de dados (PostgresSQL)
     - Comando(s)
     - 3.2 php artisan migrate   
-## 4. Dependências Docker.
+## 4. Instalar Dependências Docker.
     - 4.1 Arquivos já configurados
     - Na Pasta dockerfiles
     - E O docker-compose.yml (Raiz do projeto)
