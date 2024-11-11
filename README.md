@@ -11,11 +11,12 @@
 
 A documentação do projeto, os endpoints e diagrama do banco de dados, está localizada na raiz desse projeto no arquivo Documentação.pdf:
 
-## 1. Codificação do Projeto (UTF-8)
+1. Codificação do Projeto (UTF-8)
 
 # Instalação do projeto
 ## 2. Dependências Laravel.
-    - Comando(s)
+    - Renomear .env (Raiz do projeto)
+    -- Comando(s)
     - composer install
     - php artisan key:generate
     - php artisan jwt:secret
