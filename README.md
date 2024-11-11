@@ -7,9 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# ACP GROUP - TESTE PRÁTICO. Candidato : Melquisedeque Bispo de Jesus.
+
 ## Instruções importantes.
 
-A documentação do projeto, os endpoints, instrução do JWT e diagrama do banco de dados. Localizada na raiz desse projeto no arquivo Documentação.pdf:
+A documentação do projeto, mapa dos End Points, instrução do JWT e diagrama do banco de dados. Localizada na raiz desse projeto no arquivo Documentação.pdf:
 
 Codificação do Projeto (UTF-8)
 
