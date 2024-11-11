@@ -11,14 +11,15 @@
 ## Por Melquisedeque Bispo de Jesus.
 
 ## Instruções importantes.
-### Documentação.pdf
 
-Documentação do projeto contendo.
-- Mapa dos End Points
-- Instrução do JWT 
-- Diagrama do banco de dados. 
-- Localizada na raiz do projeto no arquivo ('Documentação.pdf')
-- Codificação do Projeto (UTF-8)
+
+## Documentação do projeto contendo.
+    ### Documentação.pdf
+    - Mapa dos End Points
+    - Instrução do JWT 
+    - Diagrama do banco de dados. 
+    - Localizada na raiz do projeto no arquivo ('Documentação.pdf')
+    - Codificação do Projeto (UTF-8)
 
 # Instalação do projeto
 
@@ -34,8 +35,8 @@ Documentação do projeto contendo.
     - 3.2 php artisan migrate   
 ## 4. Dependências Docker.
     - 4.1 Arquivos já configurados
-    - Pasta dockerfiles
-    - docker-compose.yml (Raiz do projeto)
+    - Na Pasta dockerfiles
+    - E O docker-compose.yml (Raiz do projeto)
     - Comando(s)
     - 4.2 docker compose up -d
 
