@@ -10,18 +10,15 @@
 # ACP GROUP - TESTE PRÁTICO. 
 ## Por Melquisedeque Bispo de Jesus.
 
-## Instruções importantes.
-
-
 ## Documentação.pdf
 ### O que há no arquivo?
     - Mapa dos End Points
     - Instrução do JWT 
-    - Diagrama do banco de dados. 
-    - Localizada na raiz do projeto no arquivo ('Documentação.pdf')
+    - Diagrama do banco de dados.    
     - Codificação do Projeto (UTF-8)
+    - Localizada na raiz do projeto no arquivo ('Documentação.pdf')
 
-# Instalação do projeto
+## Instruções para instalação do projeto.
 
 ## 2. Dependências Laravel.
     - 2.1 Renomear .env.example para .env (Raiz do projeto)
