@@ -9,9 +9,9 @@
 
 ## Instruções importantes.
 
-A documentação do projeto, os endpoints e diagrama do banco de dados, está localizada na raiz desse projeto no arquivo Documentação.pdf:
+A documentação do projeto, os endpoints, intrução do JWT e diagrama do banco de dados, está localizada na raiz desse projeto no arquivo Documentação.pdf:
 
-1. Codificação do Projeto (UTF-8)
+Codificação do Projeto (UTF-8)
 
 # Instalação do projeto
 ## 2. Dependências Laravel.
