@@ -13,11 +13,11 @@
 ## Instruções importantes.
 
 A documentação do projeto contendo.
--Mapa dos End Points
--Instrução do JWT 
--Diagrama do banco de dados. 
-Localizada na raiz desse projeto no arquivo 
-### Documentação.pdf:
+- Mapa dos End Points
+- Instrução do JWT 
+- Diagrama do banco de dados. 
+- Localizada na raiz desse projeto no arquivo 
+### Documentação.pdf
 
 Codificação do Projeto (UTF-8)
 
