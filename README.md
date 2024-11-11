@@ -9,7 +9,7 @@
 
 ## Instruções importantes.
 
-A documentação do projeto, os endpoints, intrução do JWT e diagrama do banco de dados, está localizada na raiz desse projeto no arquivo Documentação.pdf:
+A documentação do projeto, os endpoints, instrução do JWT e diagrama do banco de dados. Localizada na raiz desse projeto no arquivo Documentação.pdf:
 
 Codificação do Projeto (UTF-8)
 
