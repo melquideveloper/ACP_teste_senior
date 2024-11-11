@@ -11,21 +11,21 @@
 
 A documentação do projeto, incluindo os endpoints e diagrama do banco de dados, está localizada na raiz do projeto no arquivo Documentação.pdf:
 
-- 1. Codificação do Projeto (UTF-8).
-- 2. Dependências Laravel.
-    2.1 Comando(s)
-    composer install
-    php artisan key:generate
-    php artisan jwt:secret
-- 3 - Dependências Banco de dados (PostgresSQL)
-   3.2 Comando(s)
-   php artisan migrate
-- 4 - Dependências Docker
-   4.1 Arquivos já configurados
-    {\dockerfiles}
-    {docker-compose.yml}
-    4.2 Comando(s)
-    docker compose up -d
+## 1. Codificação do Projeto (UTF-8).
+## 2. Dependências Laravel.
+    - 2.1 Comando(s)
+    - composer install
+    - php artisan key:generate
+    - php artisan jwt:secret
+## 3. Dependências Banco de dados (PostgresSQL)
+   - 3.2 Comando(s)
+   - php artisan migrate
+## 4. Dependências Docker
+   - 4.1 Arquivos já configurados
+    - {\dockerfiles}
+    - {docker-compose.yml}
+    - 4.2 Comando(s)
+    - docker compose up -d
 
 ## Contributing
 
