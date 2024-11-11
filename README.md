@@ -29,11 +29,11 @@ Documentação do projeto contendo.
     - 2.3 php artisan key:generate
     - 2.4 php artisan jwt:secret
 ## 3. Dependências Banco de dados (PostgresSQL).   
-   - 3.1 Configurar .env com banco de dados (PostgresSQL)
-   - Comando(s)
-   - 3.2 php artisan migrate   
+    - 3.1 Configurar .env com banco de dados (PostgresSQL)
+    - Comando(s)
+    - 3.2 php artisan migrate   
 ## 4. Dependências Docker.
-   - 4.1 Arquivos já configurados
+    - 4.1 Arquivos já configurados
     - Pasta dockerfiles
     - docker-compose.yml (Raiz do projeto)
     - Comando(s)
