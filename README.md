@@ -23,21 +23,23 @@ A documentação do projeto contendo.
 Codificação do Projeto (UTF-8)
 
 # Instalação do projeto
+
 ## 2. Dependências Laravel.
-    - Renomear .env (Raiz do projeto)
-    -- Comando(s)
-    - composer install
-    - php artisan key:generate
-    - php artisan jwt:secret
-## 3. Dependências Banco de dados (PostgresSQL).
-   - 3.2 Comando(s)
-   - php artisan migrate
+    - 2.1 Renomear .env (Raiz do projeto)
+    - Comando(s)
+    - 2.2 composer install
+    - 2.3 php artisan key:generate
+    - 2.4 php artisan jwt:secret
+## 3. Dependências Banco de dados (PostgresSQL).   
+   - 3.1 Configurar .env com banco de dados (PostgresSQL)
+   - Comando(s)
+   - 3.2 php artisan migrate   
 ## 4. Dependências Docker.
    - 4.1 Arquivos já configurados
     - {\dockerfiles}
     - {docker-compose.yml}
-    - 4.2 Comando(s)
-    - docker compose up -d
+    - Comando(s)
+    - 4.2 docker compose up -d
 
 ## License
 
