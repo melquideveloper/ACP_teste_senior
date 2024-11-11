@@ -1,13 +1,13 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passos para Instalação do Projeto</title>
+</head>
+<body>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-<h1>Passos para Instalação</h1>
+    <h1>Passos para Instalação</h1>
 
     <h2>1. Codificação do Projeto</h2>
     <p><strong>Codificação:</strong> UTF-8</p>
@@ -44,3 +44,6 @@
 
     <h2>Documentação do Projeto</h2>
     <p>A documentação do projeto, incluindo os endpoints, está localizada na raiz do projeto no arquivo <code>Documentação.pdf</code>.</p>
+
+</body>
+</html>
