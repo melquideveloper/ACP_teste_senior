@@ -13,19 +13,17 @@
 ## Instruções importantes.
 ### Documentação.pdf
 
-A documentação do projeto contendo.
+Documentação do projeto contendo.
 - Mapa dos End Points
 - Instrução do JWT 
 - Diagrama do banco de dados. 
-- Localizada na raiz desse projeto no arquivo (Documentação.pdf)
-
-
-Codificação do Projeto (UTF-8)
+- Localizada na raiz do projeto no arquivo ('Documentação.pdf')
+- Codificação do Projeto (UTF-8)
 
 # Instalação do projeto
 
 ## 2. Dependências Laravel.
-    - 2.1 Renomear .env (Raiz do projeto)
+    - 2.1 Renomear .env.example para .env (Raiz do projeto)
     - Comando(s)
     - 2.2 composer install
     - 2.3 php artisan key:generate
@@ -36,8 +34,8 @@ Codificação do Projeto (UTF-8)
    - 3.2 php artisan migrate   
 ## 4. Dependências Docker.
    - 4.1 Arquivos já configurados
-    - {\dockerfiles}
-    - {docker-compose.yml}
+    - Pasta dockerfiles
+    - docker-compose.yml (Raiz do projeto)
     - Comando(s)
     - 4.2 docker compose up -d
 
